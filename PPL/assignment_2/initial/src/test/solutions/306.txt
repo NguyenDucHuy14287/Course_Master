@@ -1,0 +1,1 @@
+Program([VarDecl(a,<class 'AST.IntType'>),VarDecl(b,<class 'AST.IntType'>),VarDecl(c,<class 'AST.IntType'>),VarDecl(d,<class 'AST.IntType'>),VarDecl(e,<class 'AST.IntType'>)])

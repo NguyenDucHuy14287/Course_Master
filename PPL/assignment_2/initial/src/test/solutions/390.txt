@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],<class 'AST.IntType'>,Block([VarDecl(Id(i),<class 'AST.IntType'>),VarDecl(Id(a),<class 'AST.IntType'>),For(BinaryOp(=,Id(i),IntLiteral(1));BinaryOp(=,Id(i),BinaryOp(+,Id(i),IntLiteral(1)));BinaryOp(<,Id(i),IntLiteral(5));Block([BinaryOp(=,Id(a),BinaryOp(+,Id(a),IntLiteral(5)))]))]))])

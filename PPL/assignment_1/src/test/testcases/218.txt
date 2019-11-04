@@ -1,0 +1,12 @@
+int main(){
+        if (a==b) {
+             if (c==d){
+                 a = 0;
+             }
+        }
+        else if (c==d) {
+            if (c==d){
+                 a = 0;
+             }
+        }
+        }

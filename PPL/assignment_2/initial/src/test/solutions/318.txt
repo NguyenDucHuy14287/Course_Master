@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],ArrayTypePointer(<class 'AST.BoolType'>),Block([]))])

@@ -1,0 +1,7 @@
+void print(string s){
+            do {
+                int a;
+                a = d[23];
+            }
+            while (a||b||c)
+        }

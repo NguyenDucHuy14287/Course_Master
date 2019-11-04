@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],<class 'AST.IntType'>,Block([For(BinaryOp(=,Id(a),IntLiteral(9));BinaryOp(=,Id(a),BinaryOp(-,Id(a),IntLiteral(9)));Id(bool_Var);Block([If(BinaryOp(<=,Id(a),IntLiteral(9)),Break(),Block([Continue()]))]))]))])

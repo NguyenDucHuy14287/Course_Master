@@ -1,0 +1,1 @@
+Program([VarDecl(a,ArrayType(<class 'AST.IntType'>,IntLiteral(2))),VarDecl(b,ArrayType(<class 'AST.IntType'>,IntLiteral(4)))])

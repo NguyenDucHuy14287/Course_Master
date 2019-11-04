@@ -1,0 +1,15 @@
+
+        float a[3];
+        string c,d;
+        int main () {
+            for (a=9;a = a-9;bool_Var){
+                if (a<=9){
+                    for (i=1;i=i+1;i<j){
+                        a[i] = a[i]+1;
+                    }
+                }
+                else {
+                    return sun(3);
+                }
+            }
+        }

@@ -1,0 +1,9 @@
+int main () {
+            for (a=9;a = a-9;bool_Var){
+                if (a<=9)
+                    break;
+                else {
+                    continue;
+                }
+            }
+        }

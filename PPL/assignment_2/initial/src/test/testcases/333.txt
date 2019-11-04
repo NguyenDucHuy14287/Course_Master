@@ -1,0 +1,1 @@
+int a, b[1]; void print(float f[], string s){} string s;

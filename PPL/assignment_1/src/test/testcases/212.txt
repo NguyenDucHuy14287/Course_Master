@@ -1,0 +1,4 @@
+int main (int a, int b) {
+            putIntLn(4);
+            a = 10;
+        }

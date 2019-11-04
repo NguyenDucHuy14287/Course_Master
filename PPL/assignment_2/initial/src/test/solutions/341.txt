@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],<class 'AST.VoidType'>,Block([If(BinaryOp(>,Id(a),Id(b)),If(BinaryOp(>,Id(b),Id(c)),CallExpr(Id(print),[Id(a)]),CallExpr(Id(print),[Id(b)])))]))])

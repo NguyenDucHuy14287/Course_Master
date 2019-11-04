@@ -1,0 +1,4 @@
+int a; 
+            int func(int b){
+                b = c - d;
+        }
