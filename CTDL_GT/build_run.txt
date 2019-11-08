@@ -1,0 +1,3 @@
+>>g++ tut_1.cpp -o tut_1.bin
+
+>>./tut_1.bin
